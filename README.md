@@ -18,6 +18,9 @@ The pipeline consists of a strictly object-oriented, API-resilient macroeconomic
 4. **Autoregressive Feedback:** The model ingests lagged Realized Volatility alongside macro variables to maintain historical context.
 5. **Asymmetric QLIKE Loss:** Trained using a custom financial loss function optimized for volatility, with a Softplus activation layer guaranteeing strictly positive outputs.
 
+Results: ![Brent Crude Volatility Forecast](volatility_forecast_brent.png)
+   
+
 ## 🚀 Installation & Usage
 
 To run this pipeline locally, clone the repository and install the required dependencies which stated in equirements: 
