@@ -1,0 +1,14 @@
+# Python önbellek dosyaları
+__pycache__/
+*.py[cod]
+
+# Çıktılar ve Veri Setleri
+*.csv
+pipeline_output/
+
+# PyTorch Model Ağırlıkları (Çok yer kaplar, GitHub'a atılmaz)
+*.pt
+*.pth
+
+# Çevresel Değişkenler (API Key'lerini gizlemek için)
+.env
