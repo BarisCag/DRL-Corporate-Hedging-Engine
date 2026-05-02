@@ -2,7 +2,7 @@
 ================================================================================
   MAIN EXECUTION ENGINE (V5 - Final Institutional Edition)
   Project: Transformer-based Realized Volatility Forecasting
-  Author: Baris Cagri Malci
+  Author: BarisKen
 ================================================================================
 """
 
